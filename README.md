@@ -1,7 +1,9 @@
-Firmware für HBW-1W-T10 RS485 Modul
+#Firmware für HBW-1W-T10 RS485 Modul:
+ * Homematic Wired Hombrew Hardware Arduino nano als Homematic-Device nach einer Vorlage von Thorsten Pferdekaemper  (thorsten@pferdekaemper.com) und Dirk Hoffmann (hoffmann@vmd-jena.de) 
+ *mit Erweiterung um eine Identfy LED
+
 ===================================
- * Homematic Wired Hombrew Hardware Arduino nano als Homematic-Device nach einer Vorlage von Thorsten Pferdekaemper (thorsten@pferdekaemper.com) und Dirk Hoffmann (hoffmann@vmd-jena.de) mit Erweiterung um eine Identfy LED
-===================================
+
 #Hardwarebeschreibung:
  * Pinsettings for Arduino nano
  * D0: RXD, normaler Serieller Port fuer Debug-Zwecke und Firmware
